@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/nxtgen-utils/src/main/java/org/nxtgenutils/impl
+END
+SingleEndReadPhaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12/trunk/nxtgen-utils/src/main/java/org/nxtgenutils/impl/SingleEndReadPhaser.java
+END
+AbstractReadPhaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12/trunk/nxtgen-utils/src/main/java/org/nxtgenutils/impl/AbstractReadPhaser.java
+END
+PairedEndReadPhaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12/trunk/nxtgen-utils/src/main/java/org/nxtgenutils/impl/PairedEndReadPhaser.java
+END
+BSSingleEndReadPhaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8/trunk/nxtgen-utils/src/main/java/org/nxtgenutils/impl/BSSingleEndReadPhaser.java
+END
+BSPairedEndReadPhaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8/trunk/nxtgen-utils/src/main/java/org/nxtgenutils/impl/BSPairedEndReadPhaser.java
+END
+ReadPairClipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8/trunk/nxtgen-utils/src/main/java/org/nxtgenutils/impl/ReadPairClipper.java
+END
+PrimerClipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15/trunk/nxtgen-utils/src/main/java/org/nxtgenutils/impl/PrimerClipper.java
+END
+ReadCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12/trunk/nxtgen-utils/src/main/java/org/nxtgenutils/impl/ReadCounter.java
+END
